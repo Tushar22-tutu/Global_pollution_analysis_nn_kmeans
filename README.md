@@ -64,5 +64,5 @@ This project explores how pollution data from multiple countries correlates with
 
 1. Clone this repository  
 ```bash
-git clone https://github.com/your-username/global-pollution-energy-analysis.git
+git clone https://github.com/Tushar22-tutu/global-pollution-energy-analysis.git
 cd global-pollution-energy-analysis
